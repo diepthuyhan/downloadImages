@@ -6,6 +6,7 @@ Get image url from common website
 - Download from wallhaven.cc
 
 #Install
+
 `pip install "git+https://github.com/diepthuyhan/downloadImages"`
 
 # Document
