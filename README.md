@@ -7,7 +7,7 @@ Get image url from common website
 
 # Install
 
-`pip install "git+https://github.com/diepthuyhan/downloadImages"`
+`pip install "git+https://github.com/diepthuyhan/downloadImages#egg=downloadImages"`
 
 # Document
 waiting...
